@@ -1,16 +1,10 @@
 {
-    "blog": [
-        {
-            "title": "first blog",
-            "body": "pee pee poo poo",
-            "author": "pewds",
-            "id": 1
-        },
-        {
-            "title": "2nd blog",
-            "body": "pipepiper.inc",
-            "author": "richard hendricks",
-            "id": 2
-        }
-    ]
+  "blog": [
+    {
+      "title": "2nd blog",
+      "body": "pipepiper.inc",
+      "author": "richard hendricks",
+      "id": 2
+    }
+  ]
 }
